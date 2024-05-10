@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Djabraianserouj
-- 👀 I’m interested in CFD (Computational Fluid Dynamics)
+- 👀 I’m interested in numerical simulations
 - 🌱 I’m currently a scientific researcher at Friedrich-Alexander-Universität Erlangen Nürnberg
-- 💞️ I’m looking to collaborate on CFD simulations
+- 💞️ I’m looking to collaborate on numerical simulations
 - 📫 How to reach me serouj.d.djabraian@fau.de
 
 <!---
